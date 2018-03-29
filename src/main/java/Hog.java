@@ -1,3 +1,5 @@
+package main.hog;
+
 /** @name: HOG
 	@description: a GUI driven MPCO machine simulator
 				A Java project submitted by:
